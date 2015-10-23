@@ -1,0 +1,6 @@
+GPG_PW=''
+TARGET='s3://s3-eu-west-1.amazonaws.com/<bucket>/duply-<name>'
+SOURCE='/'
+MAX_AGE=1M
+export AWS_ACCESS_KEY_ID=""
+export AWS_SECRET_ACCESS_KEY=""
